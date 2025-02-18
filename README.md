@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Shriram! 👋
 
-<!--
-**shriram-stack/Shriram-Stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate **Full-Stack Developer** with a focus on building scalable web applications and APIs. I enjoy learning new technologies and contributing to open-source projects.
 
-Here are some ideas to get you started:
+## 🔧 Technologies & Tools:
+- **Languages**: JavaScript, Python, SQL
+- **Frameworks**: React, Node.js, Django, Express
+- **Tools**: Docker, Kubernetes, Git, CI/CD
+- **Databases**: PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects:
+- **Project 1**: [My Web App](link) - Description of the project.
+- **Project 2**: [My Open Source Contribution](link) - Description of the project.
+
+## 📫 Let's Connect:
+- LinkedIn: [Shriram's LinkedIn](your-linkedin)
+- Email: [shriram.email@example.com](mailto:shriram.email@example.com)
+
+---
+
+### ⭐ GitHub Stats:
+![Shriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shriram-Stack&show_icons=true&count_private=true&hide=prs)
