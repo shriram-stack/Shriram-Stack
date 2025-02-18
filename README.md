@@ -19,4 +19,5 @@ I’m a passionate **Full-Stack Developer** with a focus on building scalable we
 ---
 
 ### ⭐ GitHub Stats:
-![Shriram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shriram-Stack&show_icons=true&count_private=true&hide=prs)
+
+![Shriram's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
