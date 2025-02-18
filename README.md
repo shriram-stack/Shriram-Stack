@@ -1,4 +1,7 @@
-# Hi, I'm Shriram! 👋
+# Hi, I'm Shriram! 👋 
+
+![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyZDFzdTRuc2kya2lhM3VoZzdvbjI3ZzRtM3E4cWV5cW93MDl3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
+
 
 I’m a passionate **Full-Stack Developer** with a focus on building scalable web applications and APIs. I enjoy learning new technologies and contributing to open-source projects.
 
