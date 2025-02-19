@@ -2,22 +2,27 @@
 
 ![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWkyZDFzdTRuc2kya2lhM3VoZzdvbjI3ZzRtM3E4cWV5cW93MDl3ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif)
 
+👨‍💻 Developer & Ethical Hacker
+Passionate about building robust applications and securing digital systems. With a background in software development and cybersecurity, I strive to create clean, efficient code while ensuring the security of the systems I work on. I specialize in web development, penetration testing, and vulnerability assessments, always staying ahead of the curve to identify and mitigate potential risks.
 
-I’m a passionate **Full-Stack Developer** with a focus on building scalable web applications and APIs. I enjoy learning new technologies and contributing to open-source projects.
+🔧 Technologies I work with:
 
-## 🔧 Technologies & Tools:
-- **Languages**: JavaScript, Python, SQL
-- **Frameworks**: React, Node.js, Django, Express
-- **Tools**: Docker, Kubernetes, Git, CI/CD
-- **Databases**: PostgreSQL, MongoDB
+    Programming Languages: Python, JavaScript, C/C++, Java, Bash
+    Web Development: React, Node.js, Express, HTML, CSS, Bootstrap
+    Security: Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark
+    Databases: MySQL, PostgreSQL, MongoDB
+    Version Control: Git, GitHub, GitLab
+    DevOps: Docker, CI/CD pipelines
 
-## 🚀 Current Projects:
-- **Project 1**: [My Web App](link) - Description of the project.
-- **Project 2**: [My Open Source Contribution](link) - Description of the project.
+🚀 My focus:
 
-## 📫 Let's Connect:
-- LinkedIn: [Shriram's LinkedIn](your-linkedin)
-- Email: [shriram.email@example.com](mailto:shriram.email@example.com)
+    Developing high-quality, maintainable software
+    Conducting security audits and ethical hacking engagements
+    Continuously learning and exploring new technologies to grow as a developer and hacker
+
+🔒 Hack The Box Profile:
+Hack The Box
+4. Save Your Changes
 
 ---
 
