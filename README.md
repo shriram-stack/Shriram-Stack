@@ -7,8 +7,8 @@ Passionate about building robust applications and securing digital systems. With
 
 🔧 Technologies I work with:
 
-    Programming Languages: Python, JavaScript, C/C++, Java, Bash
-    Web Development: React, Node.js, Express, HTML, CSS, Bootstrap
+    Programming Languages: Python,  C/C++, Java, Bash
+    Web Development: React, Node.js, Express, HTML, CSS, Bootstrap, javascript 
     Security: Kali Linux, Metasploit, Burp Suite, Nmap, Wireshark
     Databases: MySQL, PostgreSQL, MongoDB
     Version Control: Git, GitHub, GitLab
