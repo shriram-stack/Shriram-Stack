@@ -1,6 +1,6 @@
 # Hi, I'm Shriram! 👋 
 
-![App Demo](assets/Frustrated Work From Home GIF by Persona.gif)
+![App Demo](assets/demo.gif)
 
 
 A Machine Learning and Cloud DevOps professional dedicated to building scalable AI solutions and secure cloud infrastructure. I thrive on bridging the gap between cutting-edge ML models and robust, automated deployment pipelines.
