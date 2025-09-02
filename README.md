@@ -1,6 +1,6 @@
 # Hi, I'm Shriram! 👋 
 
-
+https://octodex.github.com/nuxtocat/
 A Machine Learning and Cloud DevOps professional dedicated to building scalable AI solutions and secure cloud infrastructure. I thrive on bridging the gap between cutting-edge ML models and robust, automated deployment pipelines.
 
 🚀 Professional Highlights
