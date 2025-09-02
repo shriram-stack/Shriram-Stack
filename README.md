@@ -1,5 +1,4 @@
 # Hi, I'm Shriram! 👋 
-## Demo
 
 ![App Demo](assets/demo.gif)
 
