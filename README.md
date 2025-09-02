@@ -1,6 +1,8 @@
 # Hi, I'm Shriram! 👋 
+## Demo
 
-https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzA4ZWZxN2cxMTdkcGxmdTlrb2p2cXNhMGcxcGxob3RwcG4xdWNlayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif
+![App Demo](assets/demo.gif)
+
 
 A Machine Learning and Cloud DevOps professional dedicated to building scalable AI solutions and secure cloud infrastructure. I thrive on bridging the gap between cutting-edge ML models and robust, automated deployment pipelines.
 
