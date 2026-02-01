@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="DevOps GIF" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2c0eWNxa3QwdTZrd3FibGY0bnh0ZXdubGRkdXRsaXc5Z2M3djh1ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qek0hd3NUGJPEBvvzK/giphy.gif" alt="DevOps GIF" width="400"/>
 </p>
 
 <h1 align="center">Hi, I'm Shriram 👋</h1>
@@ -26,8 +26,6 @@ A <strong>DevOps Engineer</strong> passionate about building scalable, secure, a
 ## 🎓 Education & Certifications
 
 - Master of Computer Applications (MCA), Vellore Institute of Technology  
-- AWS Certified Cloud Practitioner  
-- Actively pursuing TensorFlow Developer Certification  
 
 ---
 
