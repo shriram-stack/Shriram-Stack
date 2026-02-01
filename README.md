@@ -1,35 +1,50 @@
- Hi, I'm Shriram! 👋 
+👋 Hi, I'm Shriram!
 
-![App Demo](assets/demo.gif)
+A DevOps Engineer passionate about building scalable, secure, and automated cloud infrastructure. I specialize in designing CI/CD pipelines, managing cloud environments, and implementing DevSecOps practices to ensure reliability, performance, and security.
 
+I focus on bridging the gap between development and operations by leveraging cloud-native technologies and automation tools.
 
-A Machine Learning and Cloud DevOps professional dedicated to building scalable AI solutions and secure cloud infrastructure. I thrive on bridging the gap between cutting-edge ML models and robust, automated deployment pipelines.
+🛠️ Technical Skills
 
- Professional Highlights
-Athenova: Designed and deployed advanced ML models, including a Fake News Detection system with 92% accuracy, significantly enhancing information reliability and user engagement.
+Cloud Platforms
 
-Cloud Infrastructure: Led the deployment of a Netflix Clone on AWS EKS, implementing DevSecOps practices that resulted in a 30% reduction in security vulnerabilities and a 20% optimization of cloud costs.
+AWS: EC2, S3, RDS, Lambda, IAM, VPC, CloudWatch
 
-🛠️ Technical Toolkit
-Languages: Python
+DevOps & Automation
 
-ML & Data: TensorFlow, Natural Language Processing (NLP)
+Docker, Kubernetes
 
-Cloud & DevOps: AWS (EC2, Lambda, S3, RDS), Kubernetes, Docker
+Jenkins, GitHub Actions, GitLab CI/CD
 
-CI/CD: Specializing in automated data pipelines and secure, compliant environments.
+Terraform, Ansible
 
-Security: Proficient in cloud security protocols (IAM, KMS, WAF) and experienced in conducting security audits.
+Monitoring & Logging
 
- Education & Certifications
-Master of Computer Applications from Vellore Institute of Technology.
+Prometheus, Grafana, ELK Stack
+
+Security & DevSecOps
+
+IAM, KMS, WAF
+
+Cloud security best practices and compliance
+
+Programming & Scripting
+
+Python, Bash
+
+🎓 Education & Certifications
+
+Master of Computer Applications (MCA), Vellore Institute of Technology
 
 AWS Certified Cloud Practitioner
 
-Actively pursuing TensorFlow Developer Certification.
+Actively pursuing TensorFlow Developer Certification
 
-Passion & Goals
-I am passionate about applying AI and cloud technologies to solve real-world challenges efficiently. I thrive in collaborative, agile environments and am always seeking to drive innovation.
+🎯 About Me
 
-Let's Connect!
-I am open to exploring opportunities where I can contribute to AI, cloud computing, and DevOps. Let's connect and build something great together!
+I am passionate about cloud automation and DevOps culture. I enjoy designing reliable infrastructure, optimizing systems, and improving deployment processes. I thrive in collaborative environments and continuously upskill to stay updated with modern DevOps tools and practices.
+
+🤝 Let’s Connect!
+
+I’m open to opportunities as a DevOps Engineer where I can contribute to cloud infrastructure, automation, and security.
+Let’s connect and grow together!
